@@ -37,6 +37,7 @@
   * [Linux Modules](walkthroughs/easy/linux-modules.md)
   * [Nessus](walkthroughs/easy/nessus.md)
   * [Nmap](walkthroughs/easy/nmap.md)
+  * [OpenVAS](walkthroughs/easy/openvas.md)
   * [OpenVPN](walkthroughs/easy/openvpn.md)
   * [SQLMAP](walkthroughs/easy/sqlmap.md)
   * [Web Enumeration](walkthroughs/easy/web-enumeration.md)
