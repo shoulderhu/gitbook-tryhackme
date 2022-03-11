@@ -1,0 +1,317 @@
+# Introductory Networking
+
+## :magnet: The OSI Model
+
+### Which layer would choose to send data over TCP or UDP?
+
+{% hint style="success" %}
+4
+{% endhint %}
+
+### Which layer checks received packets to make sure that they haven't been corrupted?
+
+{% hint style="success" %}
+2
+{% endhint %}
+
+### In which layer would data be formatted in preparation for transmission?
+
+{% hint style="success" %}
+2
+{% endhint %}
+
+### Which layer transmits and receives data?
+
+{% hint style="success" %}
+1
+{% endhint %}
+
+### Which layer encrypts, compresses, or otherwise transforms the initial data to give it a standardised format?
+
+{% hint style="success" %}
+6
+{% endhint %}
+
+### Which layer tracks communications between the host and receiving computers?
+
+{% hint style="success" %}
+5
+{% endhint %}
+
+### Which layer accepts communication requests from applications?
+
+{% hint style="success" %}
+7
+{% endhint %}
+
+### Which layer handles logical addressing?
+
+{% hint style="success" %}
+3
+{% endhint %}
+
+### When sending data over TCP, what would you call the "bite-sized" pieces of data?
+
+{% hint style="success" %}
+segments
+{% endhint %}
+
+### Which layer would the FTP protocol communicate with?
+
+{% hint style="success" %}
+7
+{% endhint %}
+
+### Which transport layer protocol would be best suited to transmit a live video?
+
+{% hint style="success" %}
+UDP
+{% endhint %}
+
+## :billed\_cap: Encapsulation
+
+### How would you refer to data at layer 2 of the encapsulation process?
+
+{% hint style="success" %}
+frames
+{% endhint %}
+
+### How would you refer to data at layer 4 of the encapsulation process, if the UDP protocol has been selected?
+
+{% hint style="success" %}
+datagram
+{% endhint %}
+
+### **What process would a computer perform on a received message?**
+
+{% hint style="success" %}
+de-encapsulation
+{% endhint %}
+
+### **Which is the only layer of the OSI model to add a trailer during encapsulation?**
+
+{% hint style="success" %}
+**Data Link**
+{% endhint %}
+
+### **Does encapsulation provide an extra layer of security?**
+
+{% hint style="success" %}
+**Aye**
+{% endhint %}
+
+## :pancakes: The TCP/IP Model
+
+### ****:thumbsdown: **Which model was introduced first, OSI or TCP/IP?**&#x20;
+
+{% hint style="success" %}
+TCP/IP
+{% endhint %}
+
+### **Which layer of the TCP/IP model covers the functionality of the Transport layer of the OSI model?**
+
+{% hint style="success" %}
+**Transport**
+{% endhint %}
+
+### Which layer of the TCP/IP model covers the functionality of the Session layer of the OSI model?
+
+{% hint style="success" %}
+**Application**
+{% endhint %}
+
+### The Network Interface layer of the TCP/IP model covers the functionality of two layers in the OSI model. These layers are Data Link, and?
+
+{% hint style="success" %}
+**Physical**
+{% endhint %}
+
+### Which layer of the TCP/IP model handles the functionality of the OSI network layer?
+
+{% hint style="success" %}
+**Internet**
+{% endhint %}
+
+### **What kind of protocol is TCP?**
+
+{% hint style="success" %}
+connection-based
+{% endhint %}
+
+### **What is SYN short for?**
+
+{% hint style="success" %}
+Synchronise
+{% endhint %}
+
+### What is the second step of the three way handshake?
+
+{% hint style="success" %}
+SYN/ACK
+{% endhint %}
+
+### **What is the short name for the "Acknowledgement" segment in the three-way handshake?**
+
+{% hint style="success" %}
+**ACK**
+{% endhint %}
+
+## :shark: **** Wireshark
+
+### What is the protocol specified in the section of the request that's linked to the Application layer of the OSI and TCP/IP Models?
+
+{% hint style="success" %}
+Domain Name System
+{% endhint %}
+
+### **Which layer of the OSI model does the section that shows the IP address "172.16.16.77" link to?**
+
+{% hint style="success" %}
+**Network**
+{% endhint %}
+
+### In the section of the request that links to the Transport layer of the OSI and TCP/IP models, which protocol is specified?
+
+{% hint style="success" %}
+**User Datagram Protocol**
+{% endhint %}
+
+### **Over what medium has this request been made?**
+
+{% hint style="success" %}
+**Ethernet II**
+{% endhint %}
+
+### **Which layer of the OSI model does the section that shows the number of bytes transferred (81) link to?**
+
+{% hint style="success" %}
+**Physical**
+{% endhint %}
+
+### **Can you figure out what kind of address is shown in the layer linked to the Data Link layer of the OSI model?**
+
+{% hint style="success" %}
+**MAC**
+{% endhint %}
+
+## :ping\_pong: Ping
+
+### What command would you use to ping the bbc.co.uk website?
+
+{% hint style="success" %}
+**ping bbc.co.uk**
+{% endhint %}
+
+### Ping muirlandoracle.co.uk. What is the IP address?
+
+```bash
+ping -4 -c 4 muirlandoracle.co.uk
+```
+
+### **What switch lets you change the interval of sent ping requests?**
+
+{% hint style="success" %}
+**-i**
+{% endhint %}
+
+### What switch would allow you to restrict requests to IPV4?
+
+{% hint style="success" %}
+**-4**
+{% endhint %}
+
+### **What switch would give you a more verbose output?**
+
+{% hint style="success" %}
+**-v**
+{% endhint %}
+
+## :railway\_track: Traceroute
+
+### What switch would you use to specify an interface when using Traceroute?
+
+{% hint style="success" %}
+\-i
+{% endhint %}
+
+### **What switch would you use if you wanted to use TCP requests when tracing the route?**
+
+{% hint style="success" %}
+\-T
+{% endhint %}
+
+### **Which layer of the TCP/IP model will traceroute run on by default?**
+
+{% hint style="success" %}
+**Internet**
+{% endhint %}
+
+## :mag\_right: WHOIS
+
+### **What is the registrant postal code for facebook.com?**
+
+```bash
+whois facebook.com
+```
+
+![](<../../.gitbook/assets/Screenshot from 2020-09-13 22-45-17.png>)
+
+### **When was the facebook.com domain first registered?**
+
+{% hint style="success" %}
+**29/03/1997**
+{% endhint %}
+
+### **Which city is the registrant based in?**
+
+```bash
+whois microsoft.com
+```
+
+![](<../../.gitbook/assets/Screenshot from 2020-09-13 22-52-46.png>)
+
+### **What is the name of the golf course that is near the registrant address for microsoft.com?**
+
+![](<../../.gitbook/assets/Screenshot from 2020-09-13 22-50-07.png>)
+
+### **What is the registered Tech Email for microsoft.com?**
+
+![](<../../.gitbook/assets/Screenshot from 2020-09-13 22-48-14.png>)
+
+## :jigsaw: **** Dig
+
+### **What is DNS short for?**
+
+{% hint style="success" %}
+**Domain Name System**
+{% endhint %}
+
+### **What is the first type of DNS server your computer would query when you search for a domain?**
+
+{% hint style="success" %}
+recursive
+{% endhint %}
+
+### What type of DNS server contains records specific to domain extensions (i.e. .com, .co.uk, etc)?
+
+{% hint style="success" %}
+Top-Level Domain
+{% endhint %}
+
+### **Where is the very first place your computer would look to find the IP address of a domain?**
+
+{% hint style="success" %}
+**local caches**
+{% endhint %}
+
+### Google runs two public DNS servers. One of them can be queried with the IP 8.8.8.8, what is the IP address of the other one?
+
+{% hint style="success" %}
+**8.8.4.4**
+{% endhint %}
+
+### **If a DNS query has a TTL of 24 hours, what number would the dig query show?**
+
+{% hint style="success" %}
+86400
+{% endhint %}
