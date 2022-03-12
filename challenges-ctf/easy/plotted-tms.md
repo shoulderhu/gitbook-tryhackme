@@ -4,7 +4,7 @@
 
 ## Task 1 Compromise
 
-#### What is user.txt?
+#### <mark style="color:red;">What is user.txt?</mark>
 
 ```bash
 nmap -n -sV -sC 10.10.137.48
