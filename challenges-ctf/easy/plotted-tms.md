@@ -1,5 +1,7 @@
 # Plotted-TMS
 
+![](../../.gitbook/assets/10.10.137.48.png)
+
 ## Task 1 Compromise
 
 #### What is user.txt?
@@ -113,3 +115,7 @@ cat /etc/doas.conf
 {% hint style="success" %}
 `53f85e2da3e874426fa059040a9bdcab`
 {% endhint %}
+
+## Xmind
+
+{% file src="../../.gitbook/assets/10.10.137.48.xmind" %}
