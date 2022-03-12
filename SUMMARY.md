@@ -33,6 +33,7 @@
   * [Getting Started](walkthroughs/easy/getting-started.md)
   * [Hydra](walkthroughs/easy/hydra.md)
   * [IDOR](walkthroughs/easy/idor.md)
+  * [Intro To Pwntools](walkthroughs/easy/intro-to-pwntools.md)
   * [John The Ripper](walkthroughs/easy/john-the-ripper.md)
   * [Linux Modules](walkthroughs/easy/linux-modules.md)
   * [Nessus](walkthroughs/easy/nessus.md)
