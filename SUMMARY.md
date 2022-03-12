@@ -25,6 +25,7 @@
 ## Walkthroughs
 
 * [Easy](walkthroughs/easy/README.md)
+  * [Active Directory Basics](walkthroughs/easy/active-directory-basics.md)
   * [Atlas](walkthroughs/easy/atlas.md)
   * [Attacking ICS Plant #1](walkthroughs/easy/attacking-ics-plant-1.md)
   * [Authentication Bypass](walkthroughs/easy/authentication-bypass.md)
@@ -86,9 +87,6 @@
     * [Kenobi](offensive-pentesting/getting-started/kenobi.md)
   * [Buffer Overflow Exploitation](offensive-pentesting/buffer-overflow-exploitation/README.md)
     * [Buffer Overflow Prep](offensive-pentesting/buffer-overflow-exploitation/buffer-overflow-prep.md)
-* [CompTIA Pentest+](comptia-pentest+/README.md)
-  * [Local-host vulnerabilities](comptia-pentest+/local-host-vulnerabilities/README.md)
-    * [Active Directory Basics](comptia-pentest+/local-host-vulnerabilities/active-directory-basics.md)
 * [Blaster](blaster.md)
 * [Scripting for Pentesters](scripting-for-pentesters/README.md)
   * [Hacking with PowerShell](scripting-for-pentesters/hacking-with-powershell.md)
@@ -147,7 +145,6 @@
     * [Wgel CTF](easy/challenges/wgel-ctf.md)
     * [Year of the Rabbit](easy/challenges/year-of-the-rabbit.md)
   * [Walkthroughs](easy/walkthroughs/README.md)
-    * [Active Directory Basics](easy/walkthroughs/active-directory-basics.md)
     * [Avengers Blog](easy/walkthroughs/avengers-blog.md)
     * [Burp Suite](easy/walkthroughs/burp-suite.md)
     * [CC: Pen Testing](easy/walkthroughs/cc-pen-testing.md)
