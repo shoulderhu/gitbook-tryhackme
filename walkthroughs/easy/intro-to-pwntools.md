@@ -549,3 +549,7 @@ cat /root/flag.txt
 {% hint style="success" %}
 `flag{pwn!ng_!$_fr33d0m}`
 {% endhint %}
+
+## Reference
+
+{% embed url="https://github.com/dizmascyberlabs/IntroToPwntools" %}

@@ -13,6 +13,7 @@
 
 * [Easy](challenges-ctf/easy/README.md)
   * [h4cked](challenges-ctf/easy/h4cked.md)
+  * [Plotted-TMS](challenges-ctf/easy/plotted-tms.md)
   * [Sakura Room](challenges-ctf/easy/sakura-room.md)
   * [Starting Out In Cyber Sec](challenges-ctf/easy/starting-out-in-cyber-sec.md)
 * [Medium](challenges-ctf/medium/README.md)
