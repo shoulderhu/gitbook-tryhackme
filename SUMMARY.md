@@ -34,6 +34,8 @@
   * [DNS Manipulation](walkthroughs/easy/dns-manipulation.md)
   * [ffuf](walkthroughs/easy/ffuf.md)
   * [Getting Started](walkthroughs/easy/getting-started.md)
+  * [Hardening Basics Part 1](walkthroughs/easy/hardening-basics-part-1.md)
+  * [Hardening Basics Part 2](walkthroughs/easy/hardening-basics-part-2.md)
   * [Hydra](walkthroughs/easy/hydra.md)
   * [IDOR](walkthroughs/easy/idor.md)
   * [Intro To Pwntools](walkthroughs/easy/intro-to-pwntools.md)
