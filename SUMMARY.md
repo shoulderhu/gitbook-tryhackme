@@ -25,11 +25,12 @@
 ## Walkthroughs
 
 * [Easy](walkthroughs/easy/README.md)
-  * [Active Directory Basics](walkthroughs/easy/active-directory-basics.md)
+  * [Active Directory Basics](easy/walkthroughs/active-directory-basics.md)
   * [Atlas](walkthroughs/easy/atlas.md)
   * [Attacking ICS Plant #1](walkthroughs/easy/attacking-ics-plant-1.md)
   * [Authentication Bypass](walkthroughs/easy/authentication-bypass.md)
   * [Cyber Scotland 2021](walkthroughs/easy/cyber-scotland-2021.md)
+  * [Deja Vu](walkthroughs/easy/deja-vu.md)
   * [DNS Manipulation](walkthroughs/easy/dns-manipulation.md)
   * [ffuf](walkthroughs/easy/ffuf.md)
   * [Getting Started](walkthroughs/easy/getting-started.md)
