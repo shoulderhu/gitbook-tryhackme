@@ -63,6 +63,7 @@
 * [Initial Access](module/initial-access/README.md)
   * [Red Team Recon](module/initial-access/red-team-recon.md)
   * [Password Attacks](module/initial-access/password-attacks.md)
+  * [Phishing](module/initial-access/phishing.md)
 * [Introduction to Pentesting](module/introduction-to-pentesting.md)
 * [Introduction to Web Hacking](module/introduction-to-web-hacking/README.md)
   * [Walking An Application](module/introduction-to-web-hacking/walking-an-application.md)
