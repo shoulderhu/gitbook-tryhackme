@@ -40,6 +40,7 @@
   * [OpenVPN](walkthroughs/easy/openvpn.md)
   * [Persistence](walkthroughs/easy/persistence.md)
   * [Post-Exploitation Basics](easy/walkthroughs/post-exploitation-basics.md)
+  * [RustScan](walkthroughs/easy/rustscan.md)
   * [SQLMAP](walkthroughs/easy/sqlmap.md)
   * [Starting Out In Cyber Sec](walkthroughs/easy/starting-out-in-cyber-sec.md)
   * [Web Enumeration](walkthroughs/easy/web-enumeration.md)
