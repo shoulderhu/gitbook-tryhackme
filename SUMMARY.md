@@ -12,6 +12,7 @@
 ## Challenges (CTF)
 
 * [Easy](challenges-ctf/easy/README.md)
+  * [Brute It](challenges-ctf/easy/brute-it.md)
   * [Gallery](challenges-ctf/easy/gallery.md)
   * [h4cked](challenges-ctf/easy/h4cked.md)
   * [Plotted-TMS](challenges-ctf/easy/plotted-tms.md)
