@@ -49,6 +49,7 @@
   * [Wireshark 101](walkthroughs/easy/wireshark-101.md)
 * [Medium](walkthroughs/medium/README.md)
   * [Dumping Router Firmware](walkthroughs/medium/dumping-router-firmware.md)
+  * [Network Security Solutions](walkthroughs/medium/network-security-solutions.md)
 
 ## Module
 
