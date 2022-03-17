@@ -25,6 +25,7 @@
 
 ## Walkthroughs
 
+* [Info](walkthroughs/info.md)
 * [Easy](walkthroughs/easy/README.md)
   * [Atlas](walkthroughs/easy/atlas.md)
   * [Attacking ICS Plant #1](walkthroughs/easy/attacking-ics-plant-1.md)
@@ -39,6 +40,7 @@
   * [Intro To Pwntools](walkthroughs/easy/intro-to-pwntools.md)
   * [Linux Modules](walkthroughs/easy/linux-modules.md)
   * [OpenVPN](walkthroughs/easy/openvpn.md)
+  * [Operating System Security](walkthroughs/easy/operating-system-security.md)
   * [Persistence](walkthroughs/easy/persistence.md)
   * [Post-Exploitation Basics](easy/walkthroughs/post-exploitation-basics.md)
   * [RustScan](walkthroughs/easy/rustscan.md)
