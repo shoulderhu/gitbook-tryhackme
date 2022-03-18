@@ -25,7 +25,8 @@
 
 ## Walkthroughs
 
-* [Info](walkthroughs/info.md)
+* [Info](walkthroughs/info/README.md)
+  * [Dirty Pipe: CVE-2022-0847](walkthroughs/info/dirty-pipe-cve-2022-0847.md)
 * [Easy](walkthroughs/easy/README.md)
   * [Atlas](walkthroughs/easy/atlas.md)
   * [Attacking ICS Plant #1](walkthroughs/easy/attacking-ics-plant-1.md)
