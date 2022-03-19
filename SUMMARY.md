@@ -15,6 +15,7 @@
   * [Brute It](challenges-ctf/easy/brute-it.md)
   * [Gallery](challenges-ctf/easy/gallery.md)
   * [h4cked](challenges-ctf/easy/h4cked.md)
+  * [IDE](challenges-ctf/easy/ide.md)
   * [Plotted-TMS](challenges-ctf/easy/plotted-tms.md)
   * [Sakura Room](challenges-ctf/easy/sakura-room.md)
 * [Medium](challenges-ctf/medium/README.md)
