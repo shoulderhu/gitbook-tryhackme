@@ -117,3 +117,7 @@ cat /root/root.txt
 {% hint style="success" %}
 `ce258cb16f47f1c66f0b0b77f4e0fb8d`
 {% endhint %}
+
+## Xmind
+
+{% file src="../../.gitbook/assets/10.10.45.178.xmind" %}
