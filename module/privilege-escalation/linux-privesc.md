@@ -102,6 +102,10 @@ cat /home/matt/flag1.txt
 
 ![](<../../.gitbook/assets/Screenshot from 2022-03-18 21-14-31.png>)
 
+{% hint style="success" %}
+`THM-28392872729920`
+{% endhint %}
+
 ## Task 6 Privilege Escalation: Sudo
 
 ```bash
