@@ -14,6 +14,7 @@
 * [Easy](challenges-ctf/easy/README.md)
   * [Brute It](challenges-ctf/easy/brute-it.md)
   * [Chill Hack](challenges-ctf/easy/chill-hack.md)
+  * [ColddBox: Easy](challenges-ctf/easy/colddbox-easy.md)
   * [Gallery](challenges-ctf/easy/gallery.md)
   * [h4cked](challenges-ctf/easy/h4cked.md)
   * [IDE](challenges-ctf/easy/ide.md)

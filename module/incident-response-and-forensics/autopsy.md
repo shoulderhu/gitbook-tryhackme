@@ -16,7 +16,7 @@ description: https://tryhackme.com/jr/btautopsye0
 
 #### In the above screenshot, what is the disk image format for SUSPECTHD?
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1) (1).png>)
 
 {% hint style="success" %}
 `EnCase`

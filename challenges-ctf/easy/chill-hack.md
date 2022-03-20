@@ -246,6 +246,8 @@ cat /root/proof.txt
 
 ## Reference
 
+{% embed url="https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Command%20Injection#bypass-without-space" %}
+
 {% embed url="https://johnliu55.tw/ssh-tunnel.html" %}
 
 {% embed url="https://gtfobins.github.io/gtfobins/docker" %}
