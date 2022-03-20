@@ -58,7 +58,7 @@ description: https://tryhackme.com/room/phishingemails1tryoe
 
 #### In the above screenshots, what is the URI of the blocked image?
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (4).png>)
 
 {% hint style="success" %}
 `https://i.imgur.com/LSWOtDI.png`
@@ -127,6 +127,8 @@ echo -n 'T3JkZXIgUGxhY2VkIDogWW91ciBPcmRlciBJRCBPRDIzMjE2NTcwODkyOTEgUGxhY2VkIFN
 {% endhint %}
 
 ## Task 7 Conclusion
+
+A BEC is when an adversary gains control of an internal employee's account and then uses the compromised email account to convince other internal employees to perform unauthorized or fraudulent actions.
 
 #### What is BEC?
 
