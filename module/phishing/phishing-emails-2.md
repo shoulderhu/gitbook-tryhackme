@@ -28,7 +28,7 @@ description: https://tryhackme.com/room/phishingemails2rytmuv
 
 #### This email sample used the names of a few major companies, their products, and logos such as OneDrive and Adobe. What other company name was used in this phishing email?
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (1).png>)
 
 {% hint style="success" %}
 `Citrix`
@@ -64,7 +64,7 @@ description: https://tryhackme.com/room/phishingemails2rytmuv
 
 #### What is the name of the executable that the Excel attachment attempts to run?
 
-
+![](<../../.gitbook/assets/image (2).png>)
 
 {% hint style="success" %}
 `regasms.exe`

@@ -122,6 +122,17 @@
   * [Active Directory Basics](module/windows-exploitation-basics/active-directory-basics.md)
 * [Windows Fundamentals](module/windows-fundamentals.md)
 
+## Series
+
+* [Investigating Windows](series/investigating-windows/README.md)
+  * [Investigating Windows](series/investigating-windows/investigating-windows.md)
+  * [Investigating Windows 2.0](series/investigating-windows/investigating-windows-2.0.md)
+  * [Investigating Windows 3.x](series/investigating-windows/investigating-windows-3.x.md)
+* [Overpass](series/overpass/README.md)
+  * [Overpass](series/overpass/overpass.md)
+  * [Overpass 2 - Hacked](series/overpass/overpass-2-hacked.md)
+  * [Overpass 3 - Hosting](series/overpass/overpass-3-hosting.md)
+
 ***
 
 * [Offensive Pentesting](offensive-pentesting/README.md)
@@ -179,7 +190,6 @@
     * [Linux Challenges](easy/challenges/linux-challenges.md)
     * [Madness](easy/challenges/madness.md)
     * [Ninja Skills](easy/challenges/ninja-skills.md)
-    * [Overpass](easy/challenges/overpass.md)
     * [RootMe](easy/challenges/rootme.md)
     * [Skynet](easy/challenges/untitled.md)
     * [Smag Grotto](easy/challenges/smag-grotto.md)
@@ -212,7 +222,6 @@
     * [Web Fundamentals](easy/walkthroughs/web-fundamentals.md)
 * [Medium](medium/README.md)
   * [Challenges](medium/challenges/README.md)
-    * [Investigating Windows](medium/challenges/investigating-windows.md)
     * [Mr Robot CTF](medium/challenges/mr-robot-ctf.md)
     * [Scripting](medium/challenges/scripting.md)
   * [Walkthroughs](medium/walkthroughs/README.md)
