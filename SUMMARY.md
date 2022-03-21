@@ -20,6 +20,7 @@
   * [IDE](challenges-ctf/easy/ide.md)
   * [Plotted-TMS](challenges-ctf/easy/plotted-tms.md)
   * [Sakura Room](challenges-ctf/easy/sakura-room.md)
+  * [WebOSINT](challenges-ctf/easy/webosint.md)
 * [Medium](challenges-ctf/medium/README.md)
   * [Attacking ICS Plant #2](challenges-ctf/medium/attacking-ics-plant-2.md)
   * [Attacktive Directory](challenges-ctf/medium/attacktive-directory.md)
@@ -119,6 +120,7 @@
 * [Vulnerability Research](module/vulnerability-research.md)
 * [Web Hacking Fundamentals](module/web-hacking-fundamentals.md)
 * [Windows Exploitation Basics](module/windows-exploitation-basics/README.md)
+  * [Intro to Windows](module/windows-exploitation-basics/intro-to-windows.md)
   * [Active Directory Basics](module/windows-exploitation-basics/active-directory-basics.md)
 * [Windows Fundamentals](module/windows-fundamentals.md)
 
