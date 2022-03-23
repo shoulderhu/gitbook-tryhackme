@@ -25,6 +25,7 @@
   * [Attacking ICS Plant #2](challenges-ctf/medium/attacking-ics-plant-2.md)
   * [Attacktive Directory](challenges-ctf/medium/attacktive-directory.md)
   * [Binex](challenges-ctf/medium/binex.md)
+  * [Blog](challenges-ctf/medium/blog.md)
   * [GoldenEye](challenges-ctf/medium/goldeneye.md)
 
 ## Walkthroughs
