@@ -53,6 +53,7 @@
   * [SQLMAP](walkthroughs/easy/sqlmap.md)
   * [Starting Out In Cyber Sec](walkthroughs/easy/starting-out-in-cyber-sec.md)
   * [Web Enumeration](walkthroughs/easy/web-enumeration.md)
+  * [Welcome](walkthroughs/easy/welcome.md)
   * [What the Shell?](walkthroughs/easy/what-the-shell.md)
   * [Wireshark 101](walkthroughs/easy/wireshark-101.md)
 * [Medium](walkthroughs/medium/README.md)
