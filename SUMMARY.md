@@ -45,6 +45,7 @@
   * [Hardening Basics Part 2](walkthroughs/easy/hardening-basics-part-2.md)
   * [Hydra](walkthroughs/easy/hydra.md)
   * [Intro To Pwntools](walkthroughs/easy/intro-to-pwntools.md)
+  * [Learning Cyber Security](walkthroughs/easy/learning-cyber-security.md)
   * [Linux Modules](walkthroughs/easy/linux-modules.md)
   * [OpenVPN](walkthroughs/easy/openvpn.md)
   * [Operating System Security](walkthroughs/easy/operating-system-security.md)
