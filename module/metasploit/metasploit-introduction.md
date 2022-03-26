@@ -1,12 +1,8 @@
 ---
-description: An introduction to the main components of the Metasploit Framework.
+description: https://tryhackme.com/room/metasploitintro
 ---
 
 # Metasploit: Introduction
-
-{% embed url="https://tryhackme.com/room/metasploitintro" %}
-https://tryhackme.com/room/metasploitintro
-{% endembed %}
 
 ## Task 2 Main Components of Metasploit
 
