@@ -1,8 +1,8 @@
----
-description: https://tryhackme.com/room/meterpreter
----
-
 # Metasploit: Meterpreter
+
+{% embed url="https://tryhackme.com/room/meterpreter" %}
+https://tryhackme.com/room/meterpreter
+{% endembed %}
 
 ## Task 5 Post-Exploitation Challenge
 

@@ -4,7 +4,7 @@ description: >-
   the world wide web and what makes it work.
 ---
 
-# How The Web Works
+# 🕸 How The Web Works
 
 {% embed url="https://tryhackme.com/module/how-the-web-works" %}
 https://tryhackme.com/module/how-the-web-works
