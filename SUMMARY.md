@@ -67,7 +67,8 @@
 ## Module
 
 * [Basic Computer Exploitation](module/basic-computer-exploitation.md)
-* [Burp Suite](module/burp-suite.md)
+* [Burp Suite](module/burp-suite/README.md)
+  * [Burp Suite: Extender](module/burp-suite/burp-suite-extender.md)
 * [Cryptography](module/cryptography/README.md)
   * [John The Ripper](module/cryptography/john-the-ripper.md)
 * [Cyber Security Awareness](module/cyber-security-awareness.md)
