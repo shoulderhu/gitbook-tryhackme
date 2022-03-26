@@ -1,10 +1,12 @@
 ---
-description: https://tryhackme.com/room/dnsindetail
+description: Learn how DNS works and how it helps you access internet services.
 ---
 
 # DNS in detail
 
-Learn how DNS works and how it helps you access internet services.
+{% embed url="https://tryhackme.com/room/dnsindetail" %}
+https://tryhackme.com/room/dnsindetail
+{% endembed %}
 
 ## Task 1 What is DNS?
 

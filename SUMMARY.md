@@ -76,6 +76,7 @@
   * [Disk Analysis & Autopsy](module/incident-response-and-forensics/disk-analysis-and-autopsy.md)
 * [How The Web Works](module/how-the-web-works/README.md)
   * [DNS in detail](module/how-the-web-works/dns-in-detail.md)
+  * [How website work](module/how-the-web-works/how-website-work.md)
 * [Initial Access](module/initial-access/README.md)
   * [Red Team Recon](module/initial-access/red-team-recon.md)
   * [Password Attacks](module/initial-access/password-attacks.md)
