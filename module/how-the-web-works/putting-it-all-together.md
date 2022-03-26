@@ -1,4 +1,14 @@
+---
+description: >-
+  Learn how all the individual components of the web work together to bring you
+  access to your favourite web sites.
+---
+
 # Putting it all together
+
+{% embed url="https://tryhackme.com/room/puttingitalltogether" %}
+https://tryhackme.com/room/puttingitalltogether
+{% endembed %}
 
 ## Task 2 Other Components
 
@@ -44,17 +54,17 @@ Nay
 
 #### Flag
 
-* Request tryhackme.com in your browser.
-* Check Local Cache for IP Address
-* Check your recursive DNS Server for Address
-* Query root server to find authoritative DNS Server
-* Authoritative DNS server advise the IP address for the website
-* Request passes through a Web Application Firewall
-* Request passes through a Load Balancer
-* Connect to Webserver on port 80 or 443
-* Web server receies the GET request
-* Web Application talks to Database
-* Your Browser renders the HTML into a viewable website
+1. Request tryhackme.com in your browser.
+2. Check Local Cache for IP Address
+3. Check your recursive DNS Server for Address
+4. Query root server to find authoritative DNS Server
+5. Authoritative DNS server advise the IP address for the website
+6. Request passes through a Web Application Firewall
+7. Request passes through a Load Balancer
+8. Connect to Webserver on port 80 or 443
+9. Web server receies the GET request
+10. Web Application talks to Database
+11. Your Browser renders the HTML into a viewable website
 
 {% hint style="success" %}
 `THM{YOU_GOT_THE_ORDER}`
