@@ -2,34 +2,13 @@
 
 * [Todo](README.md)
 
-## Advent of Cyber
-
-* [25 Days of Cyber Security](advent-of-cyber/advent-of-cyber-2-2020.md)
-* [2019](advent-of-cyber/2019.md)
-* [2020](advent-of-cyber/2020.md)
-* [2021](advent-of-cyber/2021.md)
-
-## Challenges (CTF)
-
-* [Easy](challenges-ctf/easy/README.md)
-  * [Brute It](challenges-ctf/easy/brute-it.md)
-  * [Chill Hack](challenges-ctf/easy/chill-hack.md)
-  * [ColddBox: Easy](challenges-ctf/easy/colddbox-easy.md)
-  * [Gallery](challenges-ctf/easy/gallery.md)
-  * [h4cked](challenges-ctf/easy/h4cked.md)
-  * [IDE](challenges-ctf/easy/ide.md)
-  * [Plotted-TMS](challenges-ctf/easy/plotted-tms.md)
-  * [Sakura Room](challenges-ctf/easy/sakura-room.md)
-  * [WebOSINT](challenges-ctf/easy/webosint.md)
-* [Medium](challenges-ctf/medium/README.md)
-  * [Attacking ICS Plant #2](challenges-ctf/medium/attacking-ics-plant-2.md)
-  * [Attacktive Directory](challenges-ctf/medium/attacktive-directory.md)
-  * [Binex](challenges-ctf/medium/binex.md)
-  * [Blog](challenges-ctf/medium/blog.md)
-  * [GoldenEye](challenges-ctf/medium/goldeneye.md)
-
 ## Walkthroughs
 
+* [Advent of Cyber](walkthroughs/advent-of-cyber/README.md)
+  * [25 Days of Cyber Security](walkthroughs/advent-of-cyber/advent-of-cyber-2-2020.md)
+  * [2019](walkthroughs/advent-of-cyber/2019.md)
+  * [2020](walkthroughs/advent-of-cyber/2020.md)
+  * [2021](walkthroughs/advent-of-cyber/2021.md)
 * [Info](walkthroughs/info/README.md)
   * [Dirty Pipe: CVE-2022-0847](walkthroughs/info/dirty-pipe-cve-2022-0847.md)
 * [Easy](walkthroughs/easy/README.md)
@@ -61,6 +40,29 @@
 * [Medium](walkthroughs/medium/README.md)
   * [Dumping Router Firmware](walkthroughs/medium/dumping-router-firmware.md)
   * [Network Security Solutions](walkthroughs/medium/network-security-solutions.md)
+* [Hard](walkthroughs/hard.md)
+
+## Challenges (CTF)
+
+* [Info](challenges-ctf/info.md)
+* [Easy](challenges-ctf/easy/README.md)
+  * [Brute It](challenges-ctf/easy/brute-it.md)
+  * [Chill Hack](challenges-ctf/easy/chill-hack.md)
+  * [ColddBox: Easy](challenges-ctf/easy/colddbox-easy.md)
+  * [Gallery](challenges-ctf/easy/gallery.md)
+  * [h4cked](challenges-ctf/easy/h4cked.md)
+  * [IDE](challenges-ctf/easy/ide.md)
+  * [Plotted-TMS](challenges-ctf/easy/plotted-tms.md)
+  * [Sakura Room](challenges-ctf/easy/sakura-room.md)
+  * [WebOSINT](challenges-ctf/easy/webosint.md)
+* [Medium](challenges-ctf/medium/README.md)
+  * [Attacking ICS Plant #2](challenges-ctf/medium/attacking-ics-plant-2.md)
+  * [Attacktive Directory](challenges-ctf/medium/attacktive-directory.md)
+  * [Binex](challenges-ctf/medium/binex.md)
+  * [Blog](challenges-ctf/medium/blog.md)
+  * [GoldenEye](challenges-ctf/medium/goldeneye.md)
+* [Hard](challenges-ctf/hard.md)
+* [Insane](challenges-ctf/insane.md)
 
 ## Module
 
@@ -72,7 +74,8 @@
 * [Incident Response and Forensics](module/incident-response-and-forensics/README.md)
   * [Autopsy](module/incident-response-and-forensics/autopsy.md)
   * [Disk Analysis & Autopsy](module/incident-response-and-forensics/disk-analysis-and-autopsy.md)
-* [How The Web Works](module/how-the-web-works.md)
+* [How The Web Works](module/how-the-web-works/README.md)
+  * [DNS in detail](module/how-the-web-works/dns-in-detail.md)
 * [Initial Access](module/initial-access/README.md)
   * [Red Team Recon](module/initial-access/red-team-recon.md)
   * [Password Attacks](module/initial-access/password-attacks.md)

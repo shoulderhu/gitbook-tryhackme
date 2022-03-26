@@ -8,7 +8,7 @@ description: https://tryhackme.com/room/learncyberin25days
 
 #### What is the name of the cookie used for authentication?
 
-![](<../.gitbook/assets/Screenshot from 2021-09-10 17-50-48.png>)
+![](<../../.gitbook/assets/Screenshot from 2021-09-10 17-50-48.png>)
 
 {% hint style="success" %}
 `auth`
@@ -44,7 +44,7 @@ echo -n '{"company":"The Best Festival Company", "username":"santa"}' \
 
 #### What is the flag you're given when the line is fully active?
 
-![](<../.gitbook/assets/Screenshot from 2021-09-10 17-48-45.png>)
+![](<../../.gitbook/assets/Screenshot from 2021-09-10 17-48-45.png>)
 
 {% hint style="success" %}
 `THM{MjY0Yzg5NTJmY2Q1NzM1NjBmZWFhYmQy}`
@@ -275,7 +275,7 @@ r2 -d ./challenge1
 
 ## Day 18 The Bits of Christmas
 
-![](<../.gitbook/assets/Screenshot from 2021-09-11 12-59-15.png>)
+![](<../../.gitbook/assets/Screenshot from 2021-09-11 12-59-15.png>)
 
 #### What is Santa's password?
 
@@ -501,7 +501,7 @@ get wmic process call create $(Resolve-Path .\Documents\deebee.exe:hidedb)
 
 #### Please help us improve by answer this 5 minute survey!
 
-![](<../.gitbook/assets/Screenshot from 2021-09-11 10-18-54.png>)
+![](<../../.gitbook/assets/Screenshot from 2021-09-11 10-18-54.png>)
 
 {% hint style="success" %}
 `thm{thank_you_2020}`
