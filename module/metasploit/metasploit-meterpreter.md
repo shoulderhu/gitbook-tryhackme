@@ -1,8 +1,14 @@
 ---
-description: https://tryhackme.com/room/meterpreter
+description: >-
+  Take a deep dive into Meterpreter, and see how in-memory payloads can be used
+  for post-exploitation.
 ---
 
 # Metasploit: Meterpreter
+
+{% embed url="https://tryhackme.com/room/meterpreter" %}
+https://tryhackme.com/room/meterpreter
+{% endembed %}
 
 ## Task 5 Post-Exploitation Challenge
 
@@ -116,3 +122,4 @@ cat 'C:\Program Files (x86)\Windows Multimedia Platform\secrets.txt'
 {% hint style="success" %}
 `The Flash is the fastest man alive`
 {% endhint %}
+
