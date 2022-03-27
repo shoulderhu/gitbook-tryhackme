@@ -68,6 +68,7 @@
 
 * [Basic Computer Exploitation](module/basic-computer-exploitation.md)
 * [Burp Suite](module/burp-suite/README.md)
+  * [Burp Suite: Other Modules](module/burp-suite/burp-suite-other-modules.md)
   * [Burp Suite: Extender](module/burp-suite/burp-suite-extender.md)
 * [Cryptography](module/cryptography/README.md)
   * [John The Ripper](module/cryptography/john-the-ripper.md)
@@ -141,6 +142,10 @@
   * [Intro to Windows](module/windows-exploitation-basics/intro-to-windows.md)
   * [Active Directory Basics](module/windows-exploitation-basics/active-directory-basics.md)
 * [Windows Fundamentals](module/windows-fundamentals.md)
+
+## Networks
+
+* [Page 2](networks/page-2.md)
 
 ## Series
 
