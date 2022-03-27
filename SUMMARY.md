@@ -68,6 +68,7 @@
 
 * [Basic Computer Exploitation](module/basic-computer-exploitation.md)
 * [Burp Suite](module/burp-suite/README.md)
+  * [Burp Suite: Intruder](module/burp-suite/burp-suite-intruder.md)
   * [Burp Suite: Other Modules](module/burp-suite/burp-suite-other-modules.md)
   * [Burp Suite: Extender](module/burp-suite/burp-suite-extender.md)
 * [Cryptography](module/cryptography/README.md)
