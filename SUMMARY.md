@@ -14,6 +14,7 @@
 * [Easy](walkthroughs/easy/README.md)
   * [Atlas](walkthroughs/easy/atlas.md)
   * [Attacking ICS Plant #1](walkthroughs/easy/attacking-ics-plant-1.md)
+  * [Attacking Kerberos](walkthroughs/easy/attacking-kerberos.md)
   * [Cryptography for Dummies](walkthroughs/easy/cryptography-for-dummies.md)
   * [Cyber Scotland 2021](walkthroughs/easy/cyber-scotland-2021.md)
   * [Deja Vu](walkthroughs/easy/deja-vu.md)
