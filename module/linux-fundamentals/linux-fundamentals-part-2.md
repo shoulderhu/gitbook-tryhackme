@@ -11,10 +11,6 @@ description: >-
 https://tryhackme.com/room/linuxfundamentalspart2
 {% endembed %}
 
-```bash
-ssh tryhackme@10.10.57.57
-```
-
 ## Task 3 Introduction to Flags and Switches
 
 #### What directional arrow key would we use to navigate down the manual page?
