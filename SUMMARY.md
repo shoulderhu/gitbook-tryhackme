@@ -86,6 +86,7 @@
   * [Phishing](module/initial-access/phishing.md)
 * [🕵 Introduction to Pentesting](module/introduction-to-pentesting/README.md)
   * [Pentesting Fundamentals](module/introduction-to-pentesting/pentesting-fundamentals.md)
+  * [Principles of Security](module/introduction-to-pentesting/principles-of-security.md)
 * [Introduction to Web Hacking](module/introduction-to-web-hacking/README.md)
   * [Walking An Application](module/introduction-to-web-hacking/walking-an-application.md)
   * [Content Discovery](module/introduction-to-web-hacking/content-discovery.md)

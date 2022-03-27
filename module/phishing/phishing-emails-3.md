@@ -18,7 +18,7 @@ description: https://tryhackme.com/room/phishingemails3tryoe
 
 #### How can you manually get the location of a hyperlink?
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (1).png>)
 
 {% hint style="success" %}
 `Copy Link Location`

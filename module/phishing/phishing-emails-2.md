@@ -28,7 +28,7 @@ description: https://tryhackme.com/room/phishingemails2rytmuv
 
 #### This email sample used the names of a few major companies, their products, and logos such as OneDrive and Adobe. What other company name was used in this phishing email?
 
-![](<../../.gitbook/assets/image (3) (1).png>)
+![](<../../.gitbook/assets/image (3) (1) (1).png>)
 
 {% hint style="success" %}
 `Citrix`
