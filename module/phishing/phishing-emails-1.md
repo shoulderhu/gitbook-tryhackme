@@ -58,7 +58,7 @@ description: https://tryhackme.com/room/phishingemails1tryoe
 
 #### In the above screenshots, what is the URI of the blocked image?
 
-![](<../../.gitbook/assets/image (4) (1).png>)
+![](<../../.gitbook/assets/image (4) (1) (1).png>)
 
 {% hint style="success" %}
 `https://i.imgur.com/LSWOtDI.png`

@@ -9,7 +9,7 @@ https://tryhackme.com/room/introdigitalforensics
 * Public-sector investigations
 * Private-sector investigations
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (4) (1).png>)
 
 #### Consider the desk in the photo above. In addition to the smartphone, camera, and SD cards, what would be interesting for digital forensics?
 
