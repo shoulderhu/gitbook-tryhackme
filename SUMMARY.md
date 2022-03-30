@@ -153,6 +153,7 @@
 ## Networks
 
 * [Page 2](networks/page-2.md)
+* [Holo](networks/holo.md)
 
 ## Series
 
