@@ -99,6 +99,7 @@
   * [Authentication Bypass](module/introduction-to-web-hacking/authentication-bypass.md)
   * [IDOR](module/introduction-to-web-hacking/idor.md)
   * [File Inclusion](module/introduction-to-web-hacking/file-inclusion.md)
+  * [SSRF](module/introduction-to-web-hacking/ssrf.md)
   * [Command Injection](module/introduction-to-web-hacking/command-injection.md)
   * [SQL Injection](module/introduction-to-web-hacking/sql-injection.md)
 * [🐧 Linux Fundamentals](module/linux-fundamentals/README.md)
