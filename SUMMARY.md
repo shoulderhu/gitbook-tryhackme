@@ -34,6 +34,7 @@
   * [Operating System Security](walkthroughs/easy/operating-system-security.md)
   * [Persistence](walkthroughs/easy/persistence.md)
   * [Post-Exploitation Basics](easy/walkthroughs/post-exploitation-basics.md)
+  * [Psycho Break](walkthroughs/easy/psycho-break.md)
   * [RustScan](walkthroughs/easy/rustscan.md)
   * [SQLMAP](walkthroughs/easy/sqlmap.md)
   * [Starting Out In Cyber Sec](walkthroughs/easy/starting-out-in-cyber-sec.md)
