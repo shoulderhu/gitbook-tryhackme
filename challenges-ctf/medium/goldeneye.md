@@ -128,8 +128,6 @@ RETR 2
 
 #### If you're on Linux edit your "/etc/hosts" file and add:
 
-#### \<machines ip> severnaya-station.com
-
 #### If you're on Windows do the same but in the "c:\Windows\System32\Drivers\etc\hosts" file
 
 ```bash

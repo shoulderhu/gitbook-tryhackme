@@ -66,6 +66,7 @@
   * [Binex](challenges-ctf/medium/binex.md)
   * [Blog](challenges-ctf/medium/blog.md)
   * [GoldenEye](challenges-ctf/medium/goldeneye.md)
+  * [HA Joker CTF](challenges-ctf/medium/ha-joker-ctf.md)
 * [Hard](challenges-ctf/hard.md)
 * [Insane](challenges-ctf/insane.md)
 
