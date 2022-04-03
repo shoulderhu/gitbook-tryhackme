@@ -148,7 +148,7 @@
   * [Nessus](module/threat-and-vulnerability-management/nessus.md)
   * [OpenVAS](module/threat-and-vulnerability-management/openvas.md)
 * [Threat Emulation](module/threat-emulation.md)
-* [Vulnerability Research](module/vulnerability-research/README.md)
+* [🐞 Vulnerability Research](module/vulnerability-research/README.md)
   * [Vulnerabilities 101](module/vulnerability-research/vulnerabilities-101.md)
   * [Exploit Vulnerabilities](module/vulnerability-research/exploit-vulnerabilities.md)
   * [Vulnerability Capstone](module/vulnerability-research/vulnerability-capstone.md)
