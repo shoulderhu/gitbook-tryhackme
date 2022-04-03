@@ -120,7 +120,8 @@
   * [Nmap Post Port Scans](module/nmap/nmap-post-port-scans.md)
 * [Network Exploitation Basics](module/network-exploitation-basics/README.md)
   * [Nmap](module/network-exploitation-basics/nmap.md)
-* [Network Fundamentals](module/network-fundamentals.md)
+* [Network Fundamentals](module/network-fundamentals/README.md)
+  * [Extending Your Network](module/network-fundamentals/extending-your-network.md)
 * [Network Security](module/network-security/README.md)
   * [Passive Reconnaissance](module/network-security/passive-reconnaissance.md)
   * [Active Reconnaissance](module/network-security/active-reconnaissance.md)
@@ -162,11 +163,11 @@
 ## Series
 
 * [Attacking ICS Plant](series/attacking-ics-plant/README.md)
-  * [Attacking ICS Plant #1](series/attacking-ics-plant/attacking-ics-plant-1.md)
-  * [Attacking ICS Plant #2](series/attacking-ics-plant/attacking-ics-plant-2.md)
+  * [Attacking ICS Plant #1](walkthroughs/easy/attacking-ics-plant-1.md)
+  * [Attacking ICS Plant #2](challenges-ctf/medium/attacking-ics-plant-2.md)
 * [Hardening Basics](series/hardening-basics/README.md)
-  * [Hardening Basics Part 1](series/hardening-basics/hardening-basics-part-1.md)
-  * [Hardening Basics Part 2](series/hardening-basics/hardening-basics-part-2.md)
+  * [Hardening Basics Part 1](walkthroughs/easy/hardening-basics-part-1.md)
+  * [Hardening Basics Part 2](walkthroughs/easy/hardening-basics-part-2.md)
 * [Investigating Windows](series/investigating-windows/README.md)
   * [Investigating Windows](series/investigating-windows/investigating-windows.md)
   * [Investigating Windows 2.0](series/investigating-windows/investigating-windows-2.0.md)
@@ -176,7 +177,7 @@
   * [Overpass 2 - Hacked](series/overpass/overpass-2-hacked.md)
   * [Overpass 3 - Hosting](series/overpass/overpass-3-hosting.md)
 * [Crack The Hash](series/crack-the-hash/README.md)
-  * [Crack the hash](series/crack-the-hash/crack-the-hash.md)
+  * [Crack the hash](easy/walkthroughs/crack-the-hash.md)
   * [Crack The Hash Level 2](series/crack-the-hash/crack-the-hash-level-2.md)
 
 ***
