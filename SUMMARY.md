@@ -150,6 +150,8 @@
 * [Threat Emulation](module/threat-emulation.md)
 * [Vulnerability Research](module/vulnerability-research/README.md)
   * [Vulnerabilities 101](module/vulnerability-research/vulnerabilities-101.md)
+  * [Exploit Vulnerabilities](module/vulnerability-research/exploit-vulnerabilities.md)
+  * [Vulnerability Capstone](module/vulnerability-research/vulnerability-capstone.md)
 * [Web Hacking Fundamentals](module/web-hacking-fundamentals.md)
 * [Windows Exploitation Basics](module/windows-exploitation-basics/README.md)
   * [Intro to Windows](module/windows-exploitation-basics/intro-to-windows.md)
