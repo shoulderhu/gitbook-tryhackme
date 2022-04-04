@@ -4,18 +4,22 @@ description: A tutorial room exploring CVE-2019-18634 in the Unix Sudo Program
 
 # Sudo Buffer Overflow
 
-## :ocean: Buffer Overflow
+It has been patched, but affects versions of sudo earlier than **1.8.26**.
 
 * `pwfeedback` option enabled
 
-### #1 **Use the pre-compiled exploit in the VM to get a root shell.**
+![](<../../.gitbook/assets/image (5).png>)
+
+## Task 2 Buffer Overflow
+
+#### **Use the pre-compiled exploit in the VM to get a root shell.**
 
 ```bash
 sshpass -p tryhackme ssh -p 4444 tryhackme@10.10.220.164
 ./exploit
 ```
 
-### #2 **What's the flag in /root/root.txt?**
+#### **What's the flag in /root/root.txt?**
 
 ```bash
 cat /root/root.txt
@@ -23,7 +27,6 @@ cat /root/root.txt
 
 ![](<../../.gitbook/assets/Screenshot from 2020-08-24 10-02-13.png>)
 
-## :link: Support Material
+## Support Material
 
 {% embed url="https://github.com/saleemrashid/sudo-cve-2019-18634" %}
-

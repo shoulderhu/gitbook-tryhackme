@@ -8,7 +8,7 @@ description: https://tryhackme.com/room/phishingemails2rytmuv
 
 #### What phrase does the gibberish sender email start with?
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5) (1).png>)
 
 {% hint style="success" %}
 `noreply`

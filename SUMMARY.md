@@ -168,6 +168,9 @@
 * [Attacking ICS Plant](series/attacking-ics-plant/README.md)
   * [Attacking ICS Plant #1](walkthroughs/easy/attacking-ics-plant-1.md)
   * [Attacking ICS Plant #2](challenges-ctf/medium/attacking-ics-plant-2.md)
+* [Crack The Hash](series/crack-the-hash/README.md)
+  * [Crack the hash](easy/walkthroughs/crack-the-hash.md)
+  * [Crack The Hash Level 2](series/crack-the-hash/crack-the-hash-level-2.md)
 * [Hardening Basics](series/hardening-basics/README.md)
   * [Hardening Basics Part 1](walkthroughs/easy/hardening-basics-part-1.md)
   * [Hardening Basics Part 2](walkthroughs/easy/hardening-basics-part-2.md)
@@ -179,9 +182,10 @@
   * [Overpass](series/overpass/overpass.md)
   * [Overpass 2 - Hacked](series/overpass/overpass-2-hacked.md)
   * [Overpass 3 - Hosting](series/overpass/overpass-3-hosting.md)
-* [Crack The Hash](series/crack-the-hash/README.md)
-  * [Crack the hash](easy/walkthroughs/crack-the-hash.md)
-  * [Crack The Hash Level 2](series/crack-the-hash/crack-the-hash-level-2.md)
+* [SudoVulns](series/sudovulns/README.md)
+  * [Sudo Security Bypass](series/sudovulns/sudo-security-bypass.md)
+  * [Sudo Buffer Overflow](series/sudovulns/sudo-buffer-overflow.md)
+  * [Baron Samedit](series/sudovulns/baron-samedit.md)
 
 ***
 
@@ -261,8 +265,6 @@
     * [OWASP Juice Shop](easy/walkthroughs/owasp-juice-shop.md)
     * [OWASP Top 10](easy/walkthroughs/owasp-top-10.md)
     * [Steel Mountain](easy/walkthroughs/steel-mountain.md)
-    * [Sudo Security Bypass](easy/walkthroughs/sudo-security-bypass.md)
-    * [Sudo Buffer Overflow](easy/walkthroughs/sudo-buffer-overflow.md)
     * [Network Services](easy/walkthroughs/network-services.md)
     * [Network Services 2](easy/walkthroughs/network-services-2.md)
     * [Web Fundamentals](easy/walkthroughs/web-fundamentals.md)
