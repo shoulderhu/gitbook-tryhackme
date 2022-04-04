@@ -36,6 +36,7 @@
   * [Psycho Break](walkthroughs/easy/psycho-break.md)
   * [RustScan](walkthroughs/easy/rustscan.md)
   * [SQLMAP](walkthroughs/easy/sqlmap.md)
+  * [SSRF](walkthroughs/easy/ssrf.md)
   * [Starting Out In Cyber Sec](walkthroughs/easy/starting-out-in-cyber-sec.md)
   * [The Lay of the land](walkthroughs/easy/the-lay-of-the-land.md)
   * [Web Enumeration](walkthroughs/easy/web-enumeration.md)
@@ -68,6 +69,7 @@
   * [Blog](challenges-ctf/medium/blog.md)
   * [GoldenEye](challenges-ctf/medium/goldeneye.md)
   * [HA Joker CTF](challenges-ctf/medium/ha-joker-ctf.md)
+  * [Music Stego](challenges-ctf/medium/music-stego.md)
 * [Hard](challenges-ctf/hard.md)
 * [Insane](challenges-ctf/insane.md)
 

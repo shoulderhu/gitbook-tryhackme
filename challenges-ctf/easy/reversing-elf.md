@@ -1,5 +1,9 @@
 # Reversing ELF
 
+{% embed url="https://tryhackme.com/room/reverselfiles" %}
+https://tryhackme.com/room/reverselfiles
+{% endembed %}
+
 ## Task 1 Crackme1
 
 #### What is the flag?
