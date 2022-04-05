@@ -12,7 +12,13 @@
 * [Offensive Pentesting](learning-paths/offensive-pentesting.md)
 * [Web Fundamentals](learning-paths/web-fundamentals/README.md)
   * [LFI](learning-paths/web-fundamentals/lfi.md)
+  * [Authenticate](learning-paths/web-fundamentals/authenticate.md)
+  * [XXE](learning-paths/web-fundamentals/xxe.md)
+  * [Cross-site Scripting](learning-paths/web-fundamentals/cross-site-scripting.md)
+  * [ZTH: Obscure Web Vulns](learning-paths/web-fundamentals/zth-obscure-web-vulns.md)
   * [SSRF](learning-paths/web-fundamentals/ssrf.md)
+  * [ZTH: Web 2](learning-paths/web-fundamentals/zth-web-2.md)
+  * [Upload Vulnerabilities](learning-paths/web-fundamentals/upload-vulnerabilities.md)
 
 ## Module
 
@@ -212,7 +218,6 @@
     * [Kenobi](offensive-pentesting/getting-started/kenobi.md)
   * [Buffer Overflow Exploitation](offensive-pentesting/buffer-overflow-exploitation/README.md)
     * [Buffer Overflow Prep](offensive-pentesting/buffer-overflow-exploitation/buffer-overflow-prep.md)
-* [Page 1](page-1.md)
 * [Regular expressions](regular-expressions.md)
 * [Linux Server Forensics](linux-server-forensics.md)
 * [Tshark](tshark.md)
