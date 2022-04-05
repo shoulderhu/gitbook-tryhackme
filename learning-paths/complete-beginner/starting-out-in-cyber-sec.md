@@ -4,6 +4,10 @@ description: https://tryhackme.com/room/startingoutincybersec
 
 # Starting Out In Cyber Sec
 
+{% embed url="https://tryhackme.com/room/startingoutincybersec" %}
+https://tryhackme.com/room/startingoutincybersec
+{% endembed %}
+
 ## Task 2 Offensive Security
 
 #### What is the name of the career role that is legally employed to find vulnerabilities in applications?

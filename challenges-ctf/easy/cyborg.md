@@ -112,3 +112,5 @@ sudo /etc/mp3backups/backup.sh -c 'cat /root/root.txt' 2>/dev/null
 ## Reference
 
 {% embed url="https://ostechnix.com/backup-restore-files-borg-linux" %}
+
+{% embed url="https://borgbackup.readthedocs.io/en/stable" %}

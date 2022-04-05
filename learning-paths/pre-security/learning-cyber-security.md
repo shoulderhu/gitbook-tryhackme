@@ -4,6 +4,10 @@ description: https://tryhackme.com/room/beginnerpathintro
 
 # Learning Cyber Security
 
+{% embed url="https://tryhackme.com/room/beginnerpathintro" %}
+https://tryhackme.com/room/beginnerpathintro
+{% endembed %}
+
 ## Task 1 Web Application Security
 
 #### What is the username of the BookFace account you will be taking over?
