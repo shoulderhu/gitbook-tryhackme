@@ -55,6 +55,7 @@
   * [Brute It](challenges-ctf/easy/brute-it.md)
   * [Chill Hack](challenges-ctf/easy/chill-hack.md)
   * [ColddBox: Easy](challenges-ctf/easy/colddbox-easy.md)
+  * [Cyborg](challenges-ctf/easy/cyborg.md)
   * [Flatline](challenges-ctf/easy/flatline.md)
   * [Gallery](challenges-ctf/easy/gallery.md)
   * [h4cked](challenges-ctf/easy/h4cked.md)

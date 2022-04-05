@@ -1,5 +1,9 @@
 # Music Stego
 
+{% embed url="https://tryhackme.com/room/musicalstego" %}
+https://tryhackme.com/room/musicalstego
+{% endembed %}
+
 ## Task 1 Musical Steganography Challenge
 
 #### Who remixed the song?
