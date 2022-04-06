@@ -1,2 +1,0 @@
-# CC: Radare2
-
