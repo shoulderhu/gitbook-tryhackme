@@ -125,6 +125,7 @@
   * [Attacking Kerberos](walkthroughs/easy/attacking-kerberos.md)
   * [Badbyte](walkthroughs/easy/badbyte.md)
   * [Bebop](walkthroughs/easy/bebop.md)
+  * [Buffer Overflows](walkthroughs/easy/buffer-overflows.md)
   * [Cryptography for Dummies](walkthroughs/easy/cryptography-for-dummies.md)
   * [Cyber Scotland 2021](walkthroughs/easy/cyber-scotland-2021.md)
   * [Deja Vu](walkthroughs/easy/deja-vu.md)
@@ -213,13 +214,12 @@
 ***
 
 * [Blaster](blaster.md)
+* [Buffer Overflow Prep](buffer-overflow-prep.md)
 * [Offensive Pentesting](offensive-pentesting/README.md)
   * [Getting Started](offensive-pentesting/getting-started/README.md)
     * [Vulnersity](offensive-pentesting/getting-started/vulnersity.md)
     * [Blue](offensive-pentesting/getting-started/untitled.md)
     * [Kenobi](offensive-pentesting/getting-started/kenobi.md)
-  * [Buffer Overflow Exploitation](offensive-pentesting/buffer-overflow-exploitation/README.md)
-    * [Buffer Overflow Prep](offensive-pentesting/buffer-overflow-exploitation/buffer-overflow-prep.md)
 * [Regular expressions](regular-expressions.md)
 * [Linux Server Forensics](linux-server-forensics.md)
 * [Tshark](tshark.md)
