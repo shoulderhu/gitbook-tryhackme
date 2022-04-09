@@ -74,6 +74,7 @@
 * [Network Exploitation Basics](module/network-exploitation-basics/README.md)
   * [Nmap](module/network-exploitation-basics/nmap.md)
 * [Network Fundamentals](module/network-fundamentals/README.md)
+  * [Intro to LAN](module/network-fundamentals/intro-to-lan.md)
   * [OSI Model](module/network-fundamentals/osi-model.md)
   * [Packets & Frames](module/network-fundamentals/packets-and-frames.md)
   * [Extending Your Network](module/network-fundamentals/extending-your-network.md)
