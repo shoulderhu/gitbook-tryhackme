@@ -104,7 +104,8 @@
 * [Threat and Vulnerability Management](module/threat-and-vulnerability-management/README.md)
   * [Nessus](module/threat-and-vulnerability-management/nessus.md)
   * [OpenVAS](module/threat-and-vulnerability-management/openvas.md)
-* [Threat Emulation](module/threat-emulation.md)
+* [Threat Emulation](module/threat-emulation/README.md)
+  * [Page 1](module/threat-emulation/page-1.md)
 * [🐞 Vulnerability Research](module/vulnerability-research/README.md)
   * [Vulnerabilities 101](module/vulnerability-research/vulnerabilities-101.md)
   * [Exploit Vulnerabilities](module/vulnerability-research/exploit-vulnerabilities.md)
@@ -113,7 +114,10 @@
 * [Windows Exploitation Basics](module/windows-exploitation-basics/README.md)
   * [Intro to Windows](module/windows-exploitation-basics/intro-to-windows.md)
   * [Active Directory Basics](module/windows-exploitation-basics/active-directory-basics.md)
-* [Windows Fundamentals](module/windows-fundamentals.md)
+* [Windows Fundamentals](module/windows-fundamentals/README.md)
+  * [Windows Fundamentals 1](module/windows-fundamentals/windows-fundamentals-1.md)
+  * [Windows Fundamentals 2](module/windows-fundamentals/windows-fundamentals-2.md)
+  * [Windows Fundamentals 3](module/windows-fundamentals/windows-fundamentals-3.md)
 
 ## Walkthroughs
 
