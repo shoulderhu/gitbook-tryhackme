@@ -2,8 +2,8 @@
 
 ## :syringe: \[Day 1] Command Injection Practical
 
-{% content-ref url="injection.md" %}
-[injection.md](injection.md)
+{% content-ref url="../../easy/walkthroughs/injection.md" %}
+[injection.md](../../easy/walkthroughs/injection.md)
 {% endcontent-ref %}
 
 ## \[Day 2] Broken Authentication Practical
