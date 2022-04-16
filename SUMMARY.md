@@ -14,11 +14,9 @@
   * [LFI](learning-paths/web-fundamentals/lfi.md)
   * [Authenticate](learning-paths/web-fundamentals/authenticate.md)
   * [XXE](learning-paths/web-fundamentals/xxe.md)
-  * [Cross-site Scripting](learning-paths/web-fundamentals/cross-site-scripting.md)
   * [ZTH: Obscure Web Vulns](learning-paths/web-fundamentals/zth-obscure-web-vulns.md)
   * [SSRF](learning-paths/web-fundamentals/ssrf.md)
   * [ZTH: Web 2](learning-paths/web-fundamentals/zth-web-2.md)
-  * [Upload Vulnerabilities](learning-paths/web-fundamentals/upload-vulnerabilities.md)
 
 ## Module
 
@@ -113,10 +111,11 @@
   * [Exploit Vulnerabilities](module/vulnerability-research/exploit-vulnerabilities.md)
   * [Vulnerability Capstone](module/vulnerability-research/vulnerability-capstone.md)
 * [Web Hacking Fundamentals](module/web-hacking-fundamentals/README.md)
-  * [Burp Suite](module/web-hacking-fundamentals/burp-suite.md)
   * [Web Fundamentals](module/web-hacking-fundamentals/web-fundamentals.md)
+  * [Burp Suite](module/web-hacking-fundamentals/burp-suite.md)
   * [OWASP Top 10](module/web-hacking-fundamentals/owasp-top-10.md)
   * [OWASP Juice Shop](module/web-hacking-fundamentals/owasp-juice-shop.md)
+  * [Upload Vulnerabilities](module/web-hacking-fundamentals/upload-vulnerabilities.md)
   * [Pickle Rick](module/web-hacking-fundamentals/pickle-rick.md)
 * [Windows Exploitation Basics](module/windows-exploitation-basics/README.md)
   * [Intro to Windows](module/windows-exploitation-basics/intro-to-windows.md)
