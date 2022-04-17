@@ -1,5 +1,9 @@
 # Windows PrivEsc
 
+{% embed url="https://tryhackme.com/room/windows10privesc" %}
+https://tryhackme.com/room/windows10privesc
+{% endembed %}
+
 ```bash
 xfreerdp /v:10.10.12.59 /u:user /p:password321 /cert-ignore \                                                                                        12 ⨯
          +clipboard /dynamic-resolution /drive:share,/tmp

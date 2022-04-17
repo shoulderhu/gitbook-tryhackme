@@ -4,6 +4,10 @@ description: https://tryhackme.com/room/linprivesc
 
 # Linux PrivEsc
 
+{% embed url="https://tryhackme.com/room/linprivesc" %}
+https://tryhackme.com/room/linprivesc
+{% endembed %}
+
 ## Task 3 Enumeration
 
 ```bash
