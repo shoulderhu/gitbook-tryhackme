@@ -4,7 +4,7 @@ description: >-
   operating system, a critical skill in cyber security.
 ---
 
-# 🐧 Linux Fundamentals
+# ✔ Linux Fundamentals
 
 {% embed url="https://tryhackme.com/module/linux-fundamentals" %}
 https://tryhackme.com/module/linux-fundamentals

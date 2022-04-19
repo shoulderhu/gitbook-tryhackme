@@ -4,7 +4,7 @@ description: >-
   and unlock its full potential.
 ---
 
-# 🛡 Metasploit
+# ✔ Metasploit
 
 {% embed url="https://tryhackme.com/module/metasploit" %}
 https://tryhackme.com/module/metasploit
