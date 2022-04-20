@@ -22,7 +22,7 @@
 
 * [Basic Computer Exploitation](module/basic-computer-exploitation.md)
   * [Kenobi](offensive-pentesting/getting-started/kenobi.md)
-  * [Steel Mountain](module/basic-computer-exploitation/steel-mountain.md)
+  * [Steel Mountain](easy/walkthroughs/steel-mountain.md)
 * [✔ Burp Suite](module/burp-suite/README.md)
   * [Burp Suite: The Basics](module/burp-suite/burp-suite-the-basics.md)
   * [Burp Suite: Repeater](module/burp-suite/burp-suite-repeater.md)
