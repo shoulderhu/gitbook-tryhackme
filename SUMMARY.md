@@ -21,6 +21,7 @@
 ## Module
 
 * [Basic Computer Exploitation](module/basic-computer-exploitation.md)
+  * [Basic Pentesting](module/basic-computer-exploitation/basic-pentesting.md)
   * [Kenobi](offensive-pentesting/getting-started/kenobi.md)
   * [Steel Mountain](easy/walkthroughs/steel-mountain.md)
 * [✔ Burp Suite](module/burp-suite/README.md)
@@ -66,6 +67,7 @@
 * [Malware Analysis](module/malware-analysis.md)
   * [History of Malware](module/malware-analysis/history-of-malware.md)
   * [MAL: Strings](module/malware-analysis/mal-strings.md)
+  * [Basic Malware RE](module/malware-analysis/basic-malware-re.md)
 * [✔ Metasploit](module/metasploit/README.md)
   * [Metasploit: Introduction](module/metasploit/metasploit-introduction.md)
   * [Metasploit: Exploitation](module/metasploit/metasploit-exploitation.md)
@@ -263,7 +265,6 @@
   * [Challenges](easy/challenges/README.md)
     * [Agent Sudo](easy/challenges/agent-sudo.md)
     * [Anthem](easy/challenges/anthem.md)
-    * [Basic Pentesting](easy/challenges/basic-pentesting.md)
     * [Bounty Hacker](easy/challenges/bounty-hacker.md)
     * [Break Out The Cage](easy/challenges/break-out-the-cage.md)
     * [Brooklyn Nine Nine](easy/challenges/brooklyn-nine-nine.md)

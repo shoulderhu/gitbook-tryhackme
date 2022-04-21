@@ -1,5 +1,9 @@
 # Steel Mountain
 
+{% embed url="https://tryhackme.com/room/steelmountain" %}
+https://tryhackme.com/room/steelmountain
+{% endembed %}
+
 ## Task 1 Introduction
 
 #### **Who is the employee of the month?**
