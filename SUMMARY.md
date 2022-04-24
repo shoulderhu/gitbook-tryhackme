@@ -21,7 +21,7 @@
 ## Module
 
 * [Basic Computer Exploitation](module/basic-computer-exploitation.md)
-  * [Basic Pentesting](module/basic-computer-exploitation/basic-pentesting.md)
+  * [Basic Pentesting](easy/challenges/basic-pentesting.md)
   * [Kenobi](offensive-pentesting/getting-started/kenobi.md)
   * [Steel Mountain](easy/walkthroughs/steel-mountain.md)
 * [✔ Burp Suite](module/burp-suite/README.md)
