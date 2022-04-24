@@ -1,5 +1,9 @@
 # Hashing - Crypto 101
 
+{% embed url="https://tryhackme.com/room/hashingcrypto101" %}
+https://tryhackme.com/room/hashingcrypto101
+{% endembed %}
+
 ## :interrobang: Key Terms
 
 ### Is base64 encryption or encoding?
