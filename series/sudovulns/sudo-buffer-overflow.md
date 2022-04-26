@@ -8,7 +8,7 @@ It has been patched, but affects versions of sudo earlier than **1.8.26**.
 
 * `pwfeedback` option enabled
 
-![](<../../.gitbook/assets/image (5) (1) (1).png>)
+![](<../../.gitbook/assets/image (5) (1) (1) (1).png>)
 
 ## Task 2 Buffer Overflow
 

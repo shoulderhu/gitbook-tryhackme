@@ -51,7 +51,7 @@ cv2.waitKey(0)
 
 > https://github.com/m00-git/LZKTB4ET
 
-![](<../../.gitbook/assets/image (5) (1).png>)
+![](<../../.gitbook/assets/image (5) (1) (1).png>)
 
 {% hint style="success" %}
 `S3CR3T_P455`
@@ -74,5 +74,5 @@ cat secret
 ## Reference
 
 {% embed url="https://www.turkhackteam.org/konular/tryhackme-musical-stego-ctf-writeup.2011580" %}
-![](<../../.gitbook/assets/image (5) (1).png>)
+![](<../../.gitbook/assets/image (5) (1) (1).png>)
 {% endembed %}
