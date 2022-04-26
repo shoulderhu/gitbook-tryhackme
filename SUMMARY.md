@@ -21,7 +21,7 @@
 
 ## Module
 
-* [Basic Computer Exploitation](module/basic-computer-exploitation.md)
+* [✔ Basic Computer Exploitation](module/basic-computer-exploitation.md)
   * [Basic Pentesting](easy/challenges/basic-pentesting.md)
   * [Kenobi](offensive-pentesting/getting-started/kenobi.md)
   * [Steel Mountain](easy/walkthroughs/steel-mountain.md)
@@ -78,10 +78,11 @@
   * [Nmap Basic Port Scans](module/nmap/nmap-basic-port-scans.md)
   * [Nmap Advanced Port Scans](module/nmap/nmap-advanced-port-scans.md)
   * [Nmap Post Port Scans](module/nmap/nmap-post-port-scans.md)
-* [Network Exploitation Basics](module/network-exploitation-basics/README.md)
+* [✔ Network Exploitation Basics](module/network-exploitation-basics/README.md)
+  * [Introductory Networking](module/network-exploitation-basics/introductory-networking.md)
   * [Nmap](module/network-exploitation-basics/nmap.md)
-  * [Network Services](module/network-exploitation-basics/network-services.md)
-  * [Network Services 2](module/network-exploitation-basics/network-services-2.md)
+  * [Network Services](easy/walkthroughs/network-services.md)
+  * [Network Services 2](easy/walkthroughs/network-services-2.md)
 * [✔ Network Fundamentals](module/network-fundamentals/README.md)
   * [What is Networking?](module/network-fundamentals/what-is-networking.md)
   * [Intro to LAN](module/network-fundamentals/intro-to-lan.md)
@@ -302,7 +303,6 @@
     * [Ghidra](easy/walkthroughs/ghidra.md)
     * [Injection](easy/walkthroughs/injection.md)
     * [Introduction to Django](easy/walkthroughs/introduction-to-django.md)
-    * [Introductory Networking](easy/walkthroughs/introductory-networking.md)
     * [Intro to IoT Pentesting](easy/walkthroughs/intro-to-iot-pentesting.md)
 * [Medium](medium/README.md)
   * [Challenges](medium/challenges/README.md)
