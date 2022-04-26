@@ -176,6 +176,7 @@
   * [RustScan](walkthroughs/easy/rustscan.md)
   * [SQLMAP](walkthroughs/easy/sqlmap.md)
   * [The Lay of the land](walkthroughs/easy/the-lay-of-the-land.md)
+  * [Web Application Security](walkthroughs/easy/web-application-security.md)
   * [Web Enumeration](walkthroughs/easy/web-enumeration.md)
   * [Welcome](walkthroughs/easy/welcome.md)
 * [Medium](walkthroughs/medium/README.md)
