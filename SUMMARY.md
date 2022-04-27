@@ -181,6 +181,7 @@
   * [Welcome](walkthroughs/easy/welcome.md)
 * [Medium](walkthroughs/medium/README.md)
   * [Dumping Router Firmware](walkthroughs/medium/dumping-router-firmware.md)
+  * [Intro to Malware Analysis](walkthroughs/medium/intro-to-malware-analysis.md)
   * [Network Security Solutions](walkthroughs/medium/network-security-solutions.md)
 * [Hard](walkthroughs/hard.md)
 
