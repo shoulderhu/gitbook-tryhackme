@@ -4,7 +4,9 @@
 https://tryhackme.com/room/hololive
 {% endembed %}
 
-## Task 4 Flag Submission Panel
+## Flag Submission
+
+### Task 4 Flag Submission Panel
 
 #### What flag can be found inside of the container?
 
@@ -53,3 +55,8 @@ https://tryhackme.com/room/hololive
 {% hint style="success" %}
 
 {% endhint %}
+
+## Initial Recon
+
+### Task 8 NOT EVERY GEEK WITH A COMMODORE 64 CAN HACK INTO NASA!
+
