@@ -189,6 +189,7 @@
   * [Dumping Router Firmware](walkthroughs/medium/dumping-router-firmware.md)
   * [Intro to Malware Analysis](walkthroughs/medium/intro-to-malware-analysis.md)
   * [Network Security Solutions](walkthroughs/medium/network-security-solutions.md)
+  * [Wazuh](walkthroughs/medium/wazuh.md)
 * [Hard](walkthroughs/hard.md)
 
 ## Challenges (CTF)
