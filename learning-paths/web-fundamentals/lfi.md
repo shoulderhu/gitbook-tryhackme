@@ -69,7 +69,7 @@ sudo -l
 `/bin/journalctl`
 {% endhint %}
 
-#### Search gtfobins via the [website](http://gtfobins.github.io) or by using [gtfo tool](http://github.com/mzfr/gtfo), to see if you find any way to use that binary for privilege escalation. What is the root flag?
+#### Search gtfobins via the [website](http://gtfobins.github.io/) or by using [gtfo tool](http://github.com/mzfr/gtfo), to see if you find any way to use that binary for privilege escalation. What is the root flag?
 
 ```bash
 sudo /bin/journalctl

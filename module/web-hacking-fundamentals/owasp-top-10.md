@@ -223,7 +223,7 @@ echo -n 'MIIEogIBAAKCAQEA7bq7Uj0ZQzFiWzK' | cut -c -18
 
 ## \[Severity 5] Broken Access Control (IDOR Challenge)
 
-#### Deploy the machine and go to [http://10.10.150.60](http://10.10.150.60) - Login with the username being noot and the password test1234. **Look at other users notes. What is the flag?**
+#### Deploy the machine and go to [http://10.10.150.60](http://10.10.150.60/) - Login with the username being noot and the password test1234. **Look at other users notes. What is the flag?**
 
 ![](<../../.gitbook/assets/Screenshot from 2020-08-26 21-38-41.png>)
 
@@ -245,7 +245,7 @@ echo -n 'MIIEogIBAAKCAQEA7bq7Uj0ZQzFiWzK' | cut -c -18
 
 ## \[Severity 7] Cross-site Scripting
 
-#### Navigate to [http://10.10.244.21/](http://10.10.244.21) in your browser and click on the "Reflected XSS" tab on the navbar; craft a reflected XSS payload that will cause a popup saying "Hello".
+#### Navigate to [http://10.10.244.21/](http://10.10.244.21/) in your browser and click on the "Reflected XSS" tab on the navbar; craft a reflected XSS payload that will cause a popup saying "Hello".
 
 ```markup
 <script>alert("Hello")</script>
@@ -269,7 +269,7 @@ echo -n 'MIIEogIBAAKCAQEA7bq7Uj0ZQzFiWzK' | cut -c -18
 `ReflectiveXss4TheWin`
 {% endhint %}
 
-#### Now navigate to [http://10.10.244.21/](http://10.10.244.21) in your browser and click on the "Stored XSS" tab on the navbar; make an account. Then add a comment and see if you can insert some of your own HTML.
+#### Now navigate to [http://10.10.244.21/](http://10.10.244.21/) in your browser and click on the "Stored XSS" tab on the navbar; make an account. Then add a comment and see if you can insert some of your own HTML.
 
 ```markup
 <h1>test</h1>

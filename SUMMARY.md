@@ -197,6 +197,7 @@
   * [Dumping Router Firmware](walkthroughs/medium/dumping-router-firmware.md)
   * [Intro to Malware Analysis](walkthroughs/medium/intro-to-malware-analysis.md)
   * [Snort](walkthroughs/medium/snort.md)
+  * [ret2libc](walkthroughs/medium/ret2libc.md)
   * [Wazuh](walkthroughs/medium/wazuh.md)
 * [Hard](walkthroughs/hard.md)
 
