@@ -171,9 +171,10 @@ tail -n1 thm-reverse.key
 `HTTP SOCKS4`
 {% endhint %}
 
+## Task 8 C2 and IDS/IPS Evasion
 
+#### Which variable would you modify to add a random sleep time between beacon check-ins?
 
-
-
-
-
+{% hint style="success" %}
+`Jitter`
+{% endhint %}
