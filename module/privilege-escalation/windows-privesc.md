@@ -91,7 +91,7 @@ Get-ItemProperty HKLM:\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uni
 
 ## Task 5 DLL Hijacking
 
-![](<../../.gitbook/assets/image (7) (1).png>)
+![](<../../.gitbook/assets/image (7) (1) (1).png>)
 
 #### Replicate the example explained above on the target machine.&#x20;
 
@@ -208,14 +208,14 @@ Higher privileged service accounts will be forced to authenticate to a local por
 * Step 3: The target system will ask for a proxy configuration file (wpad.dat).&#x20;
 * Step 4: A malicious wpad.dat file is sent to the target.
 
-![](<../../.gitbook/assets/image (8) (1).png>)
+![](<../../.gitbook/assets/image (8) (1) (1).png>)
 
 * Step 5: The target system tries to connect to the proxy (now set by the malicious wpad.dat file sent on the previous step).&#x20;
 * Step 6: The exploit will ask the target system to perform an NTLM authentication.&#x20;
 * Step 7: The target system sends an NTLM handshake.&#x20;
 * Step 8: The handshake received is relayed to the SMB service with a request to create a process. This process will have the privilege level of the service targeted, which would typically be "NT AUTHORITY\SYSTEM".
 
-![](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (6) (1).png>)
 
 ## Task 8 Quick Wins
 

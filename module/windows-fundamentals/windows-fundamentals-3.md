@@ -18,7 +18,7 @@ https://tryhackme.com/room/windowsfundamentals3xzx
 
 #### In the above image, which area needs immediate attention?
 
-![](<../../.gitbook/assets/image (6) (1).png>)
+![](<../../.gitbook/assets/image (6) (1) (1).png>)
 
 {% hint style="success" %}
 `Virus & threat protection`

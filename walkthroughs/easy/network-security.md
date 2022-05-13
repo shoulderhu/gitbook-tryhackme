@@ -14,7 +14,7 @@ https://tryhackme.com/room/intronetworksecurity
 
 ## Task 2 Methodology
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5) (1).png>)
 
 #### During which step of the Cyber Kill Chain does the attacker gather information about the target?
 

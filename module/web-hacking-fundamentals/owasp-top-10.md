@@ -374,9 +374,9 @@ echo -n 'gAN9cQAoWAkAAABzZXNzaW9uSWRxAVggAAAAOTVkNWFmYzZiMmNiNDI2M2FkOGU1ZmViMmE
 
 ## \[Severity 8] Insecure Deserialization - Remote Code Execution
 
-![](<../../.gitbook/assets/image (8).png>)
+![](<../../.gitbook/assets/image (8) (1).png>)
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (7) (1).png>)
 
 ```python
 import pickle

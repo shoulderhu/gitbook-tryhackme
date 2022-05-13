@@ -22,7 +22,7 @@ https://tryhackme.com/room/oscommandinjection
 
 #### If I wanted to execute the `id` command in the Python code snippet, what route would I need to visit?
 
-![](<../../.gitbook/assets/image (6) (1) (1).png>)
+![](<../../.gitbook/assets/image (6) (1) (1) (1).png>)
 
 {% hint style="success" %}
 `/id`
