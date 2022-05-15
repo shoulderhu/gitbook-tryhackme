@@ -214,6 +214,7 @@
   * [Gallery](challenges-ctf/easy/gallery.md)
   * [h4cked](challenges-ctf/easy/h4cked.md)
   * [IDE](challenges-ctf/easy/ide.md)
+  * [JavaScript Basics](challenges-ctf/easy/javascript-basics.md)
   * [Plotted-TMS](challenges-ctf/easy/plotted-tms.md)
   * [Reversing ELF](challenges-ctf/easy/reversing-elf.md)
   * [Sakura Room](challenges-ctf/easy/sakura-room.md)
